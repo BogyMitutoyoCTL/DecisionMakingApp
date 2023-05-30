@@ -16,3 +16,8 @@ Manchmal fällt es uns schwer, Entscheidungen zu treffen. Insbesondere wenn man 
 * Welches Fach lerne ich heute mit meinen Kindern? Physik, Mathe, Deutsch oder Informatik?
 * Schere, Stein, Papier?
 * oder auch als Würfel-Ersatz.
+
+## Ablauf des Praktikums
+
+* Als Vorbereitung haben wir in den Monaten vorher kleine Teile der [Dart Präsentation](presentations/Dart.pptx) als Hausaufgaben verteilt
+* Dienstag 30.5.: Gebäuderundgang, [Firmenpräsentation](presentations/Firmenpräsentation.pptx), [Installation von Androis Studio](presentations/AndroidStudio.pptx)
