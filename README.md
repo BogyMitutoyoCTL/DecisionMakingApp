@@ -20,4 +20,11 @@ Manchmal fällt es uns schwer, Entscheidungen zu treffen. Insbesondere wenn man 
 ## Ablauf des Praktikums
 
 * Als Vorbereitung haben wir in den Monaten vorher kleine Teile der [Dart Präsentation](presentations/Dart.pptx) als Hausaufgaben verteilt
-* Dienstag 30.5.: Gebäuderundgang, [Firmenpräsentation](presentations/Firmenpräsentation.pptx), [Installation von Androis Studio](presentations/AndroidStudio.pptx)
+
+* Dienstag 30.5.: Gebäuderundgang, [Firmenpräsentation](presentations/Firmenpräsentation.pptx), [Installation von Androis Studio](presentations/AndroidStudio.pptx), [Flutter](presentations/Flutter.pptx).
+
+  Wir haben in Dart kurz über Objektorientierung gesprochen anhand des Beispiels [Quader (DartPad)](https://dartpad.dev/?id=3bce9f12138778b304f336d994c40258)
+
+  Wir haben in Flutter Designs erstellt wie z.B. [Farbauswahl (DartPad)](https://dartpad.dev/?id=b564606f36185080afff9c5aa4bbefae) 
+
+* Mittwoch 31.5.: Design der App in Figma, [Versionskontrolle](presentations/Versionskontrolle.pptx)
