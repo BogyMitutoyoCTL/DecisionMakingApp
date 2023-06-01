@@ -28,3 +28,9 @@ Manchmal fällt es uns schwer, Entscheidungen zu treffen. Insbesondere wenn man 
   Wir haben in Flutter Designs erstellt wie z.B. [Farbauswahl (DartPad)](https://dartpad.dev/?id=b564606f36185080afff9c5aa4bbefae) 
 
 * Mittwoch 31.5.: Design der App in Figma, [Versionskontrolle](presentations/Versionskontrolle.pptx)
+
+​		Wir haben die Widgets in ihrer Grundstruktur erstellt.
+
+* Donnerstag 1.6.: [Globalisierung](presentations/Globalization.ptx)
+
+​		Wir haben die Navigation ergänzt und die Widgets mit Funktionalität versehen. In Grundzügen funktioniert die App schon.
